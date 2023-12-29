@@ -2,6 +2,7 @@
 
 
 ## Commands and Permissions
-- /ping  |
-- /info  |
-- /user user: @user  |
+- /ping                |  None
+- /info                |  None 
+- /user user: @user    |  None
+  
