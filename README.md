@@ -1,5 +1,7 @@
+# Open source project
 
-# Commands and Permissions
+
+## Commands and Permissions
 - /ping  |
 - /info  |
 - /user user: @user  |
