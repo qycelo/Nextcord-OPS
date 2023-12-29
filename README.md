@@ -1,5 +1,5 @@
 
 # Commands and Permissions
-/ping  -
-/info  -
-/user user: @user  -
+- /ping  |
+- /info  |
+- /user user: @user  |
